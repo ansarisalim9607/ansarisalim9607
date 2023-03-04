@@ -1,9 +1,4 @@
 ### Hi Devloper 👋
-
-<!--
-**ansarisalim9607/ansarisalim9607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 https://www.youtube.com/
 https://www.instagram.com/
 https://www.facebook.com/
